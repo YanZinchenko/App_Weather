@@ -16,7 +16,7 @@ export const Card = () => {
 			</div>
 			<div className='Information'>
 				<div>Humidity:15</div>
-				<div>Humidity:15</div>
+				<div>Feels like:19</div>
 			</div>
 		</div>
 	);
