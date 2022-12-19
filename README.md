@@ -1,1 +1,1 @@
-Try do app weather
+Try to do app weather
